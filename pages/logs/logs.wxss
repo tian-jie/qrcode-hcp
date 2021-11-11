@@ -1,0 +1,11 @@
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+.device-item {
+  margin: 10rpx;
+}
+.service-item {
+  margin: 10rpx 10rpx 10rpx 15rpx;
+}

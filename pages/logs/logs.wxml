@@ -1,0 +1,10 @@
+<!--logs.wxml-->
+<view class="container log-list">
+<button bindtap="connectToBLE">连接</button>
+
+<button bindtap="sendDatatoBLE">发送</button>
+<button bindtap="chooseImage">选图片</button>
+
+<canvas style="width: 300px; height: 200px;" canvas-id="myCanvas"></canvas>
+
+</view>
